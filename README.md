@@ -18,19 +18,19 @@ It uses speech input, RAG-based question answering, and AI tutoring to help stud
 
 ## Installation:
 
-1. Clone the repository
+1. Clone the repository:
 git clone <repo-link>
 
-2. Navigate to the project folder
+2. Navigate to the project folder:
 cd Assisted-tutor-visually-impaired-students
 
-3. Install dependencies
+3. Install dependencies:
 npm install
 
-4. Start the server
+4. Start the server:
 node server.js
 
-5. Run the frontend
+5. Run the frontend:
 npm start
 
 
